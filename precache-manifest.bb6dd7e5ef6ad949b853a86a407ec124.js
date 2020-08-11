@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "520ca59cf95d9ff62e5b6ccc3cf8d1df",
+    "revision": "b70ad55b4402612d8388112aa4a364ce",
     "url": "/jebitok-dev/chat-app/index.html"
   },
   {

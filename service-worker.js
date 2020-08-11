@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/jebitok-dev/chat-app/precache-manifest.56c5514e1d90646a817060be24b2ea7c.js"
+  "/jebitok-dev/chat-app/precache-manifest.bb6dd7e5ef6ad949b853a86a407ec124.js"
 );
 
 self.addEventListener('message', (event) => {
